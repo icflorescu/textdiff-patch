@@ -1,0 +1,30 @@
+{
+  "name": "textdiff-patch",
+  "version": "0.1.0",
+  "description": "Apply lean text diff delta patches created by textdiff-create.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icflorescu/textdiff-patch.git"
+  },
+  "keywords": [
+    "diff",
+    "text",
+    "string",
+    "patch",
+    "lean"
+  ],
+  "author": "Ionut-Cristian Florescu <ionut.florescu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icflorescu/textdiff-patch/issues"
+  },
+  "homepage": "https://github.com/icflorescu/textdiff-patch#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.1.1"
+  }
+}
