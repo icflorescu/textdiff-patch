@@ -1,5 +1,7 @@
 # textdiff-patch
 
+![textdiff-patch](https://cloud.githubusercontent.com/assets/581999/12406663/c3e3c7d4-be57-11e5-8aad-a92d86c79b05.png)
+
 This is a simple module for applying **lean text diff delta patches** created by [textdiff-create](https://github.com/icflorescu/textdiff-create).
 
 ## Usage
