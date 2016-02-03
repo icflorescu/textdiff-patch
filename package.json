@@ -1,6 +1,6 @@
 {
   "name": "textdiff-patch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Apply lean text diff delta patches created by textdiff-create.",
   "main": "index.js",
   "scripts": {
