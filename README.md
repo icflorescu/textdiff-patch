@@ -3,6 +3,7 @@
 [![Dependency Status][david-image]][david-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
+[![Downloads][downloads-image]][downloads-url]
 
 ![textdiff-patch](https://cloud.githubusercontent.com/assets/581999/12406663/c3e3c7d4-be57-11e5-8aad-a92d86c79b05.png)
 
@@ -53,3 +54,5 @@ Released under [ISC](https://github.com/icflorescu/textdiff-patch/blob/master/LI
 [license-url]: LICENSE
 [travis-image]: https://img.shields.io/travis/icflorescu/textdiff-patch.svg?style=flat-square
 [travis-url]: https://travis-ci.org/icflorescu/textdiff-patch
+[downloads-image]: http://img.shields.io/npm/dm/textdiff-patch.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/textdiff-patch
