@@ -1,4 +1,5 @@
 # textdiff-patch
+
 [![NPM version][npm-image]][npm-url]
 [![Dependency Status][david-image]][david-url]
 [![Build Status][travis-image]][travis-url]
@@ -20,7 +21,7 @@ Assuming you've correctly installed the `npm` module with `npm i textdiff-patch 
           [0, 4],
           [-1, 6],
           [1, 'quick'],
-          [0,10],
+          [0, 10],
           [1, ' jumps over the lazy dog']
         ];
 
