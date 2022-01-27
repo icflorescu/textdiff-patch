@@ -1,7 +1,6 @@
 # textdiff-patch
 
 [![NPM version][npm-image]][npm-url]
-[![Dependency Status][david-image]][david-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
@@ -49,8 +48,6 @@ Released under [ISC](https://github.com/icflorescu/textdiff-patch/blob/master/LI
 
 [npm-image]: https://img.shields.io/npm/v/textdiff-patch.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/textdiff-patch
-[david-image]: https://img.shields.io/david/icflorescu/textdiff-patch.svg?style=flat-square
-[david-url]: https://david-dm.org/icflorescu/textdiff-patch
 [license-image]: http://img.shields.io/npm/l/textdiff-patch.svg?style=flat-square
 [license-url]: LICENSE
 [travis-image]: https://img.shields.io/travis/icflorescu/textdiff-patch.svg?style=flat-square
