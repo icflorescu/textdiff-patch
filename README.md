@@ -9,6 +9,10 @@
 
 This is a simple module for applying **lean text diff delta patches** created by [textdiff-create](https://github.com/icflorescu/textdiff-create).
 
+## ❤️🇺🇦
+
+See [below](#stand-with-ukraine).
+
 ## Usage
 
 Assuming you've correctly installed the `npm` module with `npm i textdiff-patch [--save|--save-dev]`:
@@ -41,6 +45,10 @@ Have a look at [textdiff-create](https://github.com/icflorescu/textdiff-create) 
 If you find this piece of software useful, please star the repo, [spread the word](http://twitter.com/share?text=Apply%20lean%20text%20diff%20patches%20in%20JavaScript&url=https%3A%2F%2Fgithub.com%2Ficflorescu%2Ftextdiff-patch&hashtags=javascript%2Cnodejs%2Cnpm&via=icflorescu) and feel free to endorse me on LinkedIn:
 
 [![Ionut-Cristian Florescu on LinkedIn](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png)](https://www.linkedin.com/in/icflorescu)
+
+## Stand with Ukraine
+
+On 24th of February 2022 [Russia unlawfully invaded Ukraine](https://en.wikipedia.org/wiki/Russo-Ukrainian_War). This is an unjustified, unprovoked attack on the sovereignty of a neighboring country, but also an open affront to international peace and stability that has the potential to degenerate into a nuclear event threatening the very existence of humanity. I am a Romanian (EU) citizen, but I stand with Ukraine and I am doing everything in my power to stop this madness. Here's [how you can show your support](https://www.stopputin.net/).
 
 ## LICENSE
 
