@@ -39,9 +39,9 @@ The script will produce the following output:
 
 Have a look at [textdiff-create](https://github.com/icflorescu/textdiff-create) for more info.
 
-## Credits
+## Credits & support
 
-If you find this piece of software useful, please star the repo, [spread the word](http://twitter.com/share?text=Apply%20lean%20text%20diff%20patches%20in%20JavaScript&url=https%3A%2F%2Fgithub.com%2Ficflorescu%2Ftextdiff-patch&hashtags=javascript%2Cnodejs%2Cnpm&via=icflorescu) and feel free to endorse me on LinkedIn:
+If you find this piece of software useful, please star the repo, [spread the word](http://twitter.com/share?text=Apply%20lean%20text%20diff%20patches%20in%20JavaScript&url=https%3A%2F%2Fgithub.com%2Ficflorescu%2Ftextdiff-patch&hashtags=javascript%2Cnodejs%2Cnpm&via=icflorescu), [sponsor my work](https://github.com/sponsors/icflorescu) and feel free to endorse me on LinkedIn:
 
 [![Ionut-Cristian Florescu on LinkedIn](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png)](https://www.linkedin.com/in/icflorescu)
 
