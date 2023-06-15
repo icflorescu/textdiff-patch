@@ -1,12 +1,10 @@
-'use strict';
-
 module.exports = function (original, delta) {
-  var result = '',
+  let result = '',
     index = 0;
 
   // According to latest jsperf tests, there's no need to cache array length
-  for (var i = 0; i < delta.length; i++) {
-    var item = delta[i],
+  for (let i = 0; i < delta.length; i++) {
+    const item = delta[i],
       operation = item[0],
       value = item[1];
 

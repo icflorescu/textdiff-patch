@@ -1,7 +1,6 @@
 # textdiff-patch
 
 [![NPM version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
 
@@ -17,10 +16,10 @@ See [below](#stand-with-ukraine).
 
 Assuming you've correctly installed the `npm` module with `npm i textdiff-patch [--save|--save-dev]`:
 
-    var applyPatch = require('textdiff-patch');
+    const applyPatch = require('textdiff-patch');
 
-    var v1 = 'The sleepy brown fox';
-    var delta = [
+    const v1 = 'The sleepy brown fox';
+    const delta = [
           [0, 4],
           [-1, 6],
           [1, 'quick'],
@@ -28,7 +27,7 @@ Assuming you've correctly installed the `npm` module with `npm i textdiff-patch 
           [1, ' jumps over the lazy dog']
         ];
 
-    var v2 = applyPatch(v1, delta);
+    const v2 = applyPatch(v1, delta);
 
     console.log(v2);
 
@@ -58,7 +57,5 @@ Released under [ISC](https://github.com/icflorescu/textdiff-patch/blob/master/LI
 [npm-url]: https://npmjs.org/package/textdiff-patch
 [license-image]: http://img.shields.io/npm/l/textdiff-patch.svg?style=flat-square
 [license-url]: LICENSE
-[travis-image]: https://img.shields.io/travis/icflorescu/textdiff-patch.svg?style=flat-square
-[travis-url]: https://travis-ci.org/icflorescu/textdiff-patch
 [downloads-image]: http://img.shields.io/npm/dm/textdiff-patch.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/textdiff-patch
