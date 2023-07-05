@@ -3,6 +3,7 @@
 [![NPM version][npm-image]][npm-url]
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
+[![Sponsor the author][sponsor-image]][sponsor-url]
 
 ![textdiff-patch](https://cloud.githubusercontent.com/assets/581999/12406663/c3e3c7d4-be57-11e5-8aad-a92d86c79b05.png)
 
@@ -59,3 +60,5 @@ Released under [ISC](https://github.com/icflorescu/textdiff-patch/blob/master/LI
 [license-url]: LICENSE
 [downloads-image]: http://img.shields.io/npm/dm/textdiff-patch.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/textdiff-patch
+[sponsor-image]: https://img.shields.io/badge/sponsor-violet?style=flat-square
+[sponsor-url]: https://github.com/sponsors/icflorescu
