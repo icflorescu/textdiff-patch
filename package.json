@@ -1,6 +1,6 @@
 {
   "name": "textdiff-patch",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Apply lean text diff delta patches created by textdiff-create.",
   "main": "index.js",
   "scripts": {
@@ -32,12 +32,12 @@
   },
   "homepage": "https://github.com/icflorescu/textdiff-patch#readme",
   "devDependencies": {
-    "@types/node": "^20.3.3",
-    "eslint": "^8.44.0",
+    "@types/node": "^20.4.5",
+    "eslint": "^8.45.0",
     "eslint-config-prettier": "^8.8.0",
-    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-prettier": "^5.0.0",
     "mocha": "^10.2.0",
-    "prettier": "^2.8.8",
+    "prettier": "^3.0.0",
     "should": "^13.2.3"
   }
 }
