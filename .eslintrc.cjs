@@ -1,5 +1,5 @@
 module.exports = {
-  env: { es2021: true, node: true, mocha: true },
+  env: { es2021: true, node: true },
   extends: ['eslint:recommended', 'prettier'],
   plugins: ['prettier'],
   overrides: [],
