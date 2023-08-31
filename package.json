@@ -4,7 +4,7 @@
   "description": "Apply lean text diff delta patches created by textdiff-create.",
   "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest --run"
   },
   "repository": {
     "type": "git",
